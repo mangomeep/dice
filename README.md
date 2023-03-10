@@ -1,21 +1,25 @@
 # dice
 
-a simple dice roller written in c
+### a simple dice roller written in c
 
 please treat it nicely otherwise it'll break :(
 
+## installation
 to download it, just type
 ```
 git clone https://github.com/mangomeep/dice.git
 cd dice
 ```
-then to build it and run it
+then to build it
 ```
 $ make
-$ ./dice 1d20 2d6+6
 ```
-or install it and run it
+or build it and install it
 ```
 # make install
-$ dice 1d100 2d10-5
 ```
+
+## usage
+
+*A*d*S*+/-*M*
+where *A* is the *A*mount of dice to roll, *S* is the number of *S*ides the dice has, and +/-*M* is the *M*odifier to the roll.
