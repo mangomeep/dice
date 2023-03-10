@@ -21,5 +21,5 @@ or build it and install it
 
 ## usage
 
-*A*d*S*+/-*M*
-where *A* is the *A*mount of dice to roll, *S* is the number of *S*ides the dice has, and +/-*M* is the *M*odifier to the roll.
+***A***d***S***+/-***M***
+where ***A*** is the ***A***mount of dice to roll, ***S*** is the number of ***S***ides the dice has, and +/-***M*** is the ***M***odifier to the roll.
