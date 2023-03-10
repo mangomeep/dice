@@ -12,10 +12,10 @@ cd dice
 then to install it
 ```
 $ make
-$ ./dice
+$ ./dice 1d20 2d6+6
 ```
 or
 ```
 # make install
-$ dice
+$ dice 1d100 2d10-5
 ```
