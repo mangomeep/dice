@@ -4,12 +4,12 @@ a simple dice roller written in c
 
 please treat it nicely otherwise it'll break :(
 
-just type
+to download it, just type
 ```
 git clone https://github.com/mangomeep/dice.git
 cd dice
 ```
-to download it, then
+then to install it
 ```
 $ make
 $ ./dice
@@ -19,4 +19,3 @@ or
 # make install
 $ dice
 ```
-to install it
