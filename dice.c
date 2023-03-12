@@ -25,6 +25,10 @@ int main(int argc, char *argv[]) {
         printf("\nresult: %d\n", roll_dice(atoi(number_of_dice), atoi(faces_of_dice), atoi(modifier_of_dice)));
         if(i+1 < argc) {printf("\n");}
     }
+    if(argc == 1) {
+        printf("roll #%d: %s\n", 1, "1d20");
+        printf("\nresult: %d\n", roll_dice(1, 20, 0));
+    }
     return 0;
 }
 
